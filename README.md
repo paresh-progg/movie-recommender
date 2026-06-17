@@ -56,6 +56,9 @@ streamlit run app.py
 - Hybrid recommendation system
 - Cloud deployment
 
+## Live Demo
+
+[Streamlit App](https://movie-recommender-onm4wydov3sjfn3k9dbb8t.streamlit.app/)
 ## Author
 
 Paresh Sahoo
